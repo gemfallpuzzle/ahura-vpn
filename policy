@@ -1,0 +1,121 @@
+Privacy Policy
+
+Ahura VPN (package name: "com.provpn.ahura")
+Effective date: October 24, 2026
+
+This Privacy Policy explains what information Ahura VPN ("the app", "we", "us") collects, how it is used, and the choices you have. By using the app, you acknowledge the practices described here.
+
+1. Information We Collect
+
+1.1 Information collected automatically
+
+To run the service, keep it secure, and show relevant ads, the app collects:
+
+- Device and app identifiers: A random installation identifier created by the app, the Android ID, the advertising ID (used by Google AdMob), and an identifier of the app build.
+- Device information: Device model, Android version, app version, and the language setting of the app.
+- Network information: Your IP address. We keep a history of the IP addresses and countries your installation connected from, limited to the most recent 100 entries.
+- Approximate location: The country (and where available, the city) derived from your IP address. The app does not request your device location permission and does not collect precise (GPS) location.
+- App activity: When the app was installed and last opened, how many times it has been opened, and in-app interactions and usage events.
+- App info and performance: Crash reports, diagnostics, and reports of servers that failed to connect or to load an ad.
+- Referral information: The referral code assigned to your installation and, if you use a referral code, the installation that referred you.
+- Push notification token: Used to deliver notifications from us.
+
+1.2 Information you choose to send us
+
+If you contact us by email, we receive your email address and the content of your message.
+
+1.3 Information we do not collect
+
+- We do not collect your name, phone number, contacts, photos, files, or messages.
+- We do not collect precise (GPS) location.
+- The app does not record, inspect, store, or sell the websites you visit or the content of the traffic that passes through the VPN connection.
+- We do not receive or store your payment card or bank details.
+
+2. How We Use Information
+
+We use the information above to:
+
+- Provide and operate the VPN service.
+- Verify that requests come from a genuine copy of the app and prevent abuse and fraud.
+- Run the referral program.
+- Display advertisements within the app.
+- Send notifications about the service and app updates.
+- Diagnose crashes, fix problems, and improve the app's performance and features.
+- Comply with legal obligations and Google Play policies.
+
+3. VPN Service
+
+Ahura VPN uses Android's VpnService to create a VPN connection on your device. This is the app's core function: it routes your device's internet traffic through our VPN servers to encrypt it and change your apparent location.
+
+- The app does not use the VPN connection to collect personal or sensitive data, track your browsing, or inject, redirect, or manipulate ads or other traffic.
+- The app's own traffic, such as ad requests and requests to our servers, is also sent through the VPN connection while it is active.
+- The app asks for your permission before a VPN connection is established, and it does not contact our servers before this permission has been granted.
+
+4. Third-Party Services
+
+The app uses the following services, which may collect information as described in their own privacy policies:
+
+- Google Play services, including In-App Updates and In-App Review: https://policies.google.com/privacy
+- Google AdMob (advertising): https://policies.google.com/technologies/ads
+- Firebase Analytics, Firebase Crashlytics, and Firebase Cloud Messaging: https://firebase.google.com/support/privacy
+
+5. Advertising
+
+Ahura VPN displays advertisements provided by Google AdMob. AdMob may use your advertising ID, device information, and approximate location to show personalized or contextual ads and to measure their performance.
+
+You can reset or delete your advertising ID and manage ad personalization in your device settings (Settings > Google > Ads, or Settings > Privacy > Ads, depending on your device).
+
+Advertising data is processed according to Google's applicable privacy policies.
+
+6. Data Sharing and Transfer
+
+We do not sell your personal information.
+
+We share information only:
+
+- With the service providers listed in Section 4, to provide the functions described above.
+- When required by law, or to protect the rights, safety, and security of our users and our service.
+
+Our servers and those of our service providers may be located in different countries. Your information may be processed outside your country of residence, subject to applicable data protection laws and safeguards.
+
+7. Data Retention
+
+- Installation, device, and activity records are kept while the app is in use and for as long as needed for the purposes described above.
+- The IP address history is limited to the most recent 100 entries per installation; older entries are removed automatically.
+- Crash reports, analytics, and advertising data are retained by the respective service providers according to their own policies.
+- Information may be retained for longer periods when necessary to comply with applicable legal obligations, resolve disputes, or protect the security of our services.
+
+8. Your Choices and Rights
+
+- You can uninstall the app at any time; this removes the installation identifier stored on your device.
+- You can request access to, correction of, or deletion of the information we hold about your installation by contacting us at the email address below.
+- You can manage ads personalization and your advertising ID in your device settings, and notifications in your device's app settings.
+- You can disable notifications through your device settings.
+
+Depending on where you live, you may have additional rights under local law (for example, the GDPR or CCPA). To exercise them, contact us.
+
+9. Security
+
+Communication between the app and our servers is encrypted, and access to our databases is restricted. We use reasonable technical and organizational measures to protect your information, but no method of transmission or storage is completely secure.
+
+10. Children's Privacy
+
+The app is not directed to children under 13. We do not knowingly collect personal information from children under 13. If you believe a child has provided us with personal information, contact us and we will take appropriate steps to delete it.
+
+11. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time. Changes will be published at this address with an updated effective date.
+
+Where required by applicable law, we will provide additional notice or obtain consent before implementing material changes.
+
+12. Contact Us
+
+If you have any questions or requests about this Privacy Policy, please contact us at:
+
+ahuravpn.app@gmail.com
+
+---
+
+Additional Information for Android Users
+
+Ahura VPN is designed to comply with Google Play's Developer Program Policies, including the requirements for apps that use VpnService and policies governing user data, privacy, and advertising.
